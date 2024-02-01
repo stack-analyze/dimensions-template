@@ -19,3 +19,5 @@ npm i
 ```
 
 > eula file is editable
+
+for build using electron-builder or similar
