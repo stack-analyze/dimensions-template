@@ -1,0 +1,19 @@
+{
+  "name": "dimensions-template",
+  "version": "1.0.0",
+  "description": "",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron ."
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "vue": "3.4.15",
+    "vue-router": "4.2.5"
+  },
+  "devDependencies": {
+    "electron": "28.2.1"
+  }
+}

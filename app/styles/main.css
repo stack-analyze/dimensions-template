@@ -1,0 +1,12 @@
+:root {
+    /* add variables */
+    --primary: none;
+}
+
+* {
+    box-sizing: border-box;
+}
+
+body {
+    margin: 0;
+}
